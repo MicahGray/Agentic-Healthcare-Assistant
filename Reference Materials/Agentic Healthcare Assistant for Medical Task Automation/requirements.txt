@@ -1,0 +1,10 @@
+langchain-ollama
+langchain_community
+pdf2image
+pypdf
+openpyxl
+faiss-cpu
+sentence_transformers
+langchain_groq
+xmltodict
+langgraph
